@@ -1,0 +1,2 @@
+Main-Class: StandalonePuzzleSolver
+Class-Path: lib/guava-33.4.8-jre.jar lib/lombok.jar
