@@ -3,7 +3,6 @@ package solver; // Correct package
 import lombok.Getter; // Correct Lombok import - keep this
 import lombok.RequiredArgsConstructor; // Correct Lombok import - keep this
 
-// Removed any other import lines starting with net.runelite.client.plugins.puzzlesolver...
 
 
 @RequiredArgsConstructor // This annotation creates the constructor for the final fields
